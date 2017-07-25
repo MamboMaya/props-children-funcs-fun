@@ -1,0 +1,25 @@
+.App, nav, footer {
+  height: 1em;
+  text-align: center;
+  background-color: #614344;
+}
+.container {
+  background-color: pink;
+}
+
+input[type=submit]{
+  border: none;
+  background-color: pink;
+  color: white;
+  padding: 2em;
+  margin: 1em;
+}
+
+.inputBox {
+  background-color: white;
+  padding: 2em;
+}
+nav, footer {
+  color: white;
+  padding: .5em;
+}
